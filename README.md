@@ -23,4 +23,10 @@ You can clone it from [GitHub](https://github.com/RemilekunElijah/alx-pre_course
 ``C`` - C is a general-purpose, imperative computer programming language whose design philosophy emphasizes code readability.
 <br><br>
 ``JavaScript`` - JavaScript is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.
+<br><br>
 
+##
+
+#### Contributors: <br>
+
+[![](https://github.com/remilekun-elijah.png?size=50)](https://github.com/remilekun-elijah) 
